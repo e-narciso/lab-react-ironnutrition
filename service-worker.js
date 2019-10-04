@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lab-react-ironnutrition/precache-manifest.13424131223efff9490252d56f739698.js"
+  "/lab-react-ironnutrition/precache-manifest.9657167528952f9212377cf07d561af1.js"
 );
 
 self.addEventListener('message', (event) => {
